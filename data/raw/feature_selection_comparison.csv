@@ -1,0 +1,15 @@
+feature,filter_score,filter_rank,rfe_selected,rfe_rank,decision_tree_importance,decision_tree_rank,random_forest_importance,random_forest_rank,decision
+days_since_last_activity,115.73679995783118,1,True,1,1.0,1,0.6673146532381394,1,Keep
+is_organization,53.15718538917963,2,False,5,0.0,2,0.06044623882231093,2,Keep
+following_per_repo,10.115117572366415,4,False,3,0.0,2,0.044392268025022864,4,Keep
+is_hireable,6.612370830146151,5,True,1,0.0,2,0.003198194133534942,13,Keep
+has_company,16.408005422258373,3,False,4,0.0,2,0.010503874691456513,10,Optional
+follower_ratio,3.427009832962093,6,False,9,0.0,2,0.04608116783982007,3,Optional
+engagement_score,2.8878746536596016,7,False,8,0.0,2,0.035465910338763534,5,Optional
+has_blog,2.6130035835939744,8,True,1,0.0,2,0.0040553597829994376,12,Optional
+has_location,1.7882772933209958,10,True,1,0.0,2,0.005220634626000471,11,Optional
+gists_per_year,1.450986305758513,11,True,1,0.0,2,0.025090876520315317,9,Optional
+account_age_days,2.273658492587938,9,False,7,0.0,2,0.03467268120906639,6,Drop
+repos_per_year,1.1926253274402836,12,False,2,0.0,2,0.03155082832885815,8,Drop
+followers_per_repo,0.000541323954152725,13,False,6,0.0,2,0.032007312443711924,7,Drop
+has_no_repos,0.0,14,False,10,0.0,2,0.0,14,Drop

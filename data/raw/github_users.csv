@@ -1,0 +1,251 @@
+username,public_repos,public_gists,followers,following,created_at,updated_at,hireable,company,blog,location,type,site_admin
+public-apis,1,0,5829,0,2019-05-28T12:23:44Z,2021-08-24T17:57:08Z,,,,,Organization,False
+EbookFoundation,37,0,10574,0,2015-09-04T14:12:36Z,2024-09-27T02:35:44Z,,,https://ebookfoundation.org/,virtual,Organization,False
+donnemartin,27,0,23967,2,2013-09-14T15:45:40Z,2026-03-12T01:24:17Z,True,@facebook,http://donnemartin.com/,"Washington, D.C.",User,False
+vinta,29,2,9403,122,2011-03-05T03:52:00Z,2026-06-11T15:49:30Z,True,,https://vinta.ws/code/,Taiwan,User,False
+TheAlgorithms,44,0,62596,0,2016-07-16T08:17:02Z,2021-05-08T06:44:32Z,,,https://the-algorithms.com/,India,Organization,False
+NousResearch,85,0,6108,0,2023-05-20T20:00:19Z,2026-05-29T03:46:57Z,,,https://nousresearch.com,,Organization,False
+Significant-Gravitas,28,0,4427,0,2023-04-14T07:01:09Z,2026-05-23T17:27:27Z,,,agpt.co,,Organization,False
+yt-dlp,14,0,3902,0,2021-02-24T14:52:59Z,2026-06-06T14:23:59Z,,,https://discord.gg/H5MNcFW63r,,Organization,False
+AUTOMATIC1111,45,5,17805,0,2016-08-09T05:39:07Z,2026-04-05T14:00:15Z,,,,,User,False
+huggingface,439,0,64575,0,2017-02-12T11:20:28Z,2025-10-09T16:40:46Z,,,https://huggingface.co/,NYC + Paris,Organization,False
+521xueweihan,165,11,12817,186,2014-07-24T10:16:33Z,2026-05-25T11:40:14Z,,公众号：HelloGitHub,hellogithub.com,"Beijing, China",User,False
+microsoft,8014,0,122561,0,2013-12-10T19:06:48Z,2025-06-06T20:30:56Z,,,https://opensource.microsoft.com,"Redmond, WA",Organization,False
+anthropics,90,0,69684,0,2020-12-19T18:49:20Z,2025-05-20T18:06:55Z,,,https://anthropic.com,United States of America,Organization,False
+langflow-ai,11,0,2786,0,2021-06-10T18:03:03Z,2025-05-16T14:25:32Z,,,https://www.langflow.org/,,Organization,False
+open-webui,24,0,4858,0,2024-01-30T07:00:54Z,2026-01-03T08:37:36Z,,,https://openwebui.com,,Organization,False
+ytdl-org,6,0,873,0,2019-03-09T10:37:59Z,2020-04-06T13:31:04Z,,,https://yt-dl.org/,,Organization,False
+langchain-ai,243,0,19840,0,2023-03-02T00:37:16Z,2026-06-10T13:58:47Z,,,https://www.langchain.com,United States of America,Organization,False
+Comfy-Org,68,0,2676,0,2024-04-10T03:46:11Z,2026-06-07T17:00:14Z,,,https://comfy.org,,Organization,False
+Shubhamsaboo,177,5,8525,3,2017-08-28T02:05:25Z,2026-06-02T00:52:52Z,True,Google,https://www.theunwindai.com/,,User,False
+github,551,0,77408,0,2008-05-11T04:37:31Z,2026-05-06T23:12:05Z,,,https://github.com/about,United States of America,Organization,False
+deepseek-ai,34,0,93200,0,2023-10-18T09:17:52Z,2024-03-23T17:55:39Z,,,https://www.deepseek.com/,,Organization,False
+openai,255,0,123620,0,2015-10-03T19:34:05Z,2026-04-17T23:58:17Z,,,https://openai.com/,,Organization,False
+pytorch,70,0,13193,0,2016-08-13T05:07:47Z,2026-05-07T21:24:50Z,,,https://pytorch.org,where the eigens are valued,Organization,False
+fastapi,10,0,3378,0,2024-01-11T17:41:07Z,2024-07-30T01:03:21Z,,,https://tiangolo.com/github-fastapi/,,Organization,False
+browser-use,45,0,3670,0,2024-12-17T16:30:16Z,2026-06-01T23:43:29Z,,,https://browser-use.com,United States of America,Organization,False
+nvbn,101,48,2095,10,2011-10-09T18:21:18Z,2026-06-03T21:29:20Z,True,,https://nvbn.github.io,"Amsterdam, The Netherlands",User,False
+hacksider,164,0,2975,9,2011-12-16T06:16:47Z,2026-03-28T22:05:30Z,,,,,User,False
+nextlevelbuilder,11,0,1047,0,2025-11-30T11:07:51Z,2026-03-19T10:39:35Z,,,https://nextlevelbuilder.io,Vietnam,Organization,False
+django,30,0,9556,0,2008-10-06T19:43:18Z,2026-05-18T11:31:50Z,,,https://www.djangoproject.com/,Internet,Organization,False
+home-assistant,106,0,19534,0,2015-08-18T04:27:28Z,2026-02-12T22:24:13Z,,,https://www.home-assistant.io,Your home,Organization,False
+3b1b,9,0,40514,0,2015-03-22T18:42:35Z,2026-04-16T23:57:22Z,,3Blue1Brown,www.3blue1brown.com,,User,False
+harry0703,7,0,1889,2,2013-07-03T09:21:24Z,2026-05-31T08:05:42Z,,,,,User,False
+karpathy,63,13,199023,8,2010-04-10T17:55:32Z,2026-03-09T20:56:54Z,,,https://twitter.com/karpathy,Stanford,User,False
+TauricResearch,3,0,2707,0,2024-12-26T12:55:22Z,2025-06-09T09:04:10Z,,,,United States of America,Organization,False
+sherlock-project,4,0,2639,0,2019-03-06T17:44:56Z,2024-06-02T07:16:54Z,,,https://sherlockproject.xyz,,Organization,False
+vllm-project,42,0,3438,0,2023-06-18T14:54:57Z,2026-03-17T06:12:05Z,,,,,Organization,False
+bregman-arie,42,2,5024,17,2014-12-30T13:20:32Z,2026-06-13T11:51:49Z,,Akamai,http://codingshell.com,,User,False
+infiniflow,12,0,1185,0,2020-08-20T09:04:23Z,2026-03-03T04:12:49Z,,,,,Organization,False
+PaddlePaddle,108,0,7107,0,2016-11-17T22:32:15Z,2026-06-01T14:56:35Z,,,http://paddlepaddle.org,,Organization,False
+fighting41love,319,2,2280,20,2015-03-14T14:29:45Z,2026-04-13T01:25:24Z,,@寻人微博 机器人作者,https://zhuanlan.zhihu.com/yangyangfuture,知乎专栏：https://zhuanlan.zhihu.com/yangyangfuture,User,False
+swisskyrepo,14,2,10537,13,2015-04-28T11:41:52Z,2026-06-09T08:21:50Z,,,https://swisskyrepo.github.io/,,User,False
+d2l-ai,50,0,3682,0,2018-10-08T23:47:16Z,2020-10-27T20:41:18Z,,,https://D2L.ai,,Organization,False
+tensorflow,107,0,21427,0,2015-11-04T19:32:50Z,2025-06-28T19:58:28Z,,,http://www.tensorflow.org,,Organization,False
+Z4nzu,25,1,4214,17,2017-02-11T15:27:48Z,2026-06-11T14:12:12Z,True,,https://hardikzinzu.com/,India,User,False
+OpenHands,41,0,403,0,2025-08-11T16:25:09Z,2026-05-28T16:46:13Z,,,https://openhands.dev,,Organization,False
+python,91,0,31270,0,2012-03-11T15:56:37Z,2026-06-09T17:01:03Z,,,https://www.python.org/,,Organization,False
+josephmisiti,296,144,4473,302,2010-04-17T21:09:13Z,2026-06-11T16:17:11Z,True,Math & Pencil ,http://blog.josephmisiti.com/,"Miami, FL",User,False
+hiyouga,64,1,6369,96,2015-12-11T14:43:24Z,2026-06-13T10:25:04Z,,Millennium Science School,https://x.com/hiyouga_dev,"Beijing, China",User,False
+pallets,17,0,2328,0,2016-01-17T21:29:18Z,2026-06-09T17:10:32Z,,,https://palletsprojects.com,,Organization,False
+bytedance,410,0,18056,0,2013-04-15T08:03:53Z,2026-03-20T05:48:29Z,,,https://opensource.bytedance.com,Singapore,Organization,False
+binary-husky,71,0,1596,2,2021-12-15T15:10:43Z,2026-03-24T03:00:45Z,,,,,User,False
+pewdiepie-archdaemon,2,0,29668,0,2025-08-27T21:42:51Z,2026-06-03T22:41:36Z,,,,,User,False
+OpenBB-finance,32,0,2386,0,2021-03-04T18:42:27Z,2025-08-21T21:14:00Z,,,www.openbb.co,,Organization,False
+ansible,302,0,3624,0,2012-03-06T14:55:51Z,2026-04-03T20:46:46Z,,,https://www.ansible.com/,United States of America,Organization,False
+FoundationAgents,22,0,991,0,2025-02-06T09:43:08Z,2025-12-18T07:07:49Z,,,,,Organization,False
+unclecode,124,14,1683,2,2015-05-18T09:41:03Z,2026-06-12T00:41:00Z,,"AlephNul, and KidoCode",http://kidocode.com,Singapore,User,False
+opendatalab,67,0,2787,0,2022-01-11T06:43:49Z,2022-09-15T09:38:20Z,,,https://opendatalab.org.cn,China,Organization,False
+labmlai,12,0,2829,0,2020-04-21T08:19:47Z,2021-08-16T10:58:18Z,,,https://labml.ai,,Organization,False
+safishamsi,12,0,1386,0,2025-06-14T22:34:09Z,2026-05-04T07:23:04Z,,,,"London, United Kingdom",User,False
+unslothai,9,0,3111,0,2023-11-15T12:23:54Z,2026-06-06T16:51:30Z,,,https://unsloth.ai/,United States of America,Organization,False
+shareAI-lab,38,0,3395,0,2024-11-21T08:00:02Z,2026-01-02T10:32:52Z,,,shareAI-Lab.com,Singapore,Organization,False
+666ghj,7,0,4199,3,2022-08-01T11:43:11Z,2026-06-05T15:38:08Z,,BUPT,,"Shanghai, China",User,False
+xtekky,75,12,5392,20,2022-01-28T19:10:58Z,2026-06-13T08:09:16Z,,"@onlpx, @onlpsec, @gpt4free",t.me/xtekky,Europe,User,False
+scikit-learn,17,0,5513,0,2010-08-16T07:44:52Z,2025-11-03T14:59:31Z,,,http://scikit-learn.org,,Organization,False
+localstack,108,0,1884,0,2017-05-16T13:12:26Z,2026-03-06T22:18:10Z,,,https://localstack.cloud,,Organization,False
+Asabeneh,192,26,21406,21,2014-10-03T12:13:33Z,2026-05-19T11:48:50Z,True,,https://www.asabeneh.com,"Helsinki, Finland",User,False
+ComposioHQ,74,0,1987,0,2023-03-21T08:32:21Z,2026-06-11T06:10:24Z,,,https://composio.dev,United States of America,Organization,False
+keras-team,21,0,2767,0,2017-12-11T17:51:56Z,2025-06-28T19:58:33Z,,,https://keras.io/,Worldwide,Organization,False
+openinterpreter,5,0,964,0,2024-03-12T19:22:04Z,2025-12-05T21:11:36Z,,,www.openinterpreter.com,,Organization,False
+D4Vinci,45,2,3348,91,2016-07-22T22:10:18Z,2026-05-19T12:04:27Z,True,,,Egypt,User,False
+pathwaycom,5,0,1406,0,2017-02-13T17:57:42Z,2026-05-22T22:42:59Z,,,https://pathway.com,,Organization,False
+scrapy,29,0,809,0,2011-04-16T17:31:06Z,2026-06-03T11:34:55Z,,,https://scrapy.org,,Organization,False
+docling-project,25,0,1141,0,2024-11-14T10:15:54Z,2026-06-04T21:13:04Z,,,,Switzerland,Organization,False
+commaai,159,0,4291,0,2015-12-03T04:25:04Z,2025-10-02T17:24:25Z,,,https://comma.ai,San Diego,Organization,False
+virattt,59,37,3853,2,2011-07-07T23:53:44Z,2026-03-05T22:56:31Z,True,,,"New York, NY",User,False
+CorentinJ,6,3,1945,2,2015-04-20T18:13:45Z,2026-03-02T13:13:16Z,,,,Belgium,User,False
+meta-llama,12,0,11008,0,2023-12-09T15:49:39Z,2026-05-07T21:25:01Z,,,https://llama.meta.com/,,Organization,False
+sansan0,7,0,1664,1,2021-01-09T02:17:56Z,2026-03-17T04:03:09Z,,,,,User,False
+datawhalechina,214,0,28884,0,2018-12-21T11:17:27Z,2025-12-17T12:25:23Z,,,https://datawhale.cn,,Organization,False
+RVC-Boss,5,0,1753,3,2023-03-27T09:52:35Z,2026-05-30T09:33:54Z,,,,,User,False
+mem0ai,8,0,1116,0,2023-06-19T09:32:13Z,2026-05-23T17:45:22Z,,,https://mem0.ai,United States of America,Organization,False
+ultralytics,53,0,10842,0,2017-04-01T07:59:53Z,2026-06-02T00:10:08Z,,,https://ultralytics.com,United States of America,Organization,False
+zylon-ai,7,0,271,0,2023-09-01T10:50:11Z,2025-09-16T09:16:48Z,,,https://zylon.ai/,,Organization,False
+soimort,48,112,2903,45,2010-07-24T17:55:33Z,2026-03-15T17:55:06Z,True,,https://www.soimort.org/,"Home, Earth",User,False
+Textualize,33,0,2335,0,2021-10-29T10:06:26Z,2025-06-21T09:37:34Z,,,https://www.textualize.io,,Organization,False
+ageitgey,50,10,4335,3,2011-07-05T20:51:02Z,2026-05-14T06:27:06Z,,,,Various places,User,False
+MemPalace,2,0,553,0,2026-04-10T16:53:56Z,2026-04-24T00:59:09Z,,,https://linktr.ee/mempalace,,Organization,False
+deepfakes,4,0,4110,0,2017-12-19T01:40:54Z,2026-06-09T19:00:01Z,,,,,User,False
+AntonOsika,146,10,3313,26,2013-05-18T20:06:54Z,2026-06-10T13:38:55Z,,,,,User,False
+Zie619,20,0,4024,2,2019-08-29T13:29:02Z,2026-05-31T21:26:53Z,,,,,User,False
+psf,42,0,2342,0,2019-05-14T15:17:53Z,2026-06-09T17:01:03Z,,,https://python.org/psf/github,,Organization,False
+crewAIInc,32,0,2079,0,2024-05-23T21:31:04Z,2026-06-03T14:45:45Z,,,https://crewai.com,United States of America,Organization,False
+odoo,43,0,8298,0,2014-01-10T11:48:12Z,2024-01-26T10:48:39Z,,,https://www.odoo.com,Belgium,Organization,False
+jingyaogong,10,0,1974,1,2020-03-17T11:00:58Z,2026-06-07T14:55:39Z,,NJU,,China,User,False
+xai-org,7,0,9750,0,2023-04-09T20:11:18Z,2026-04-01T19:09:00Z,,,https://x.ai/,United States of America,Organization,False
+freqtrade,11,0,1740,0,2018-03-19T10:09:59Z,2026-05-18T12:30:57Z,,,,,Organization,False
+NanmiCoder,39,1,2218,40,2019-01-30T11:31:16Z,2026-06-12T06:39:28Z,,MediaCrawler  ,https://space.bilibili.com/434377496,ShenZhen,User,False
+charlax,103,16,2510,41,2009-08-28T12:25:06Z,2026-06-11T12:45:01Z,,,http://www.dein.fr/,New York,User,False
+BerriAI,55,0,951,0,2022-12-26T21:55:14Z,2026-05-31T16:21:53Z,,,https://docs.litellm.ai/docs/,,Organization,False
+lllyasviel,38,0,21323,2,2016-06-09T08:35:46Z,2026-04-10T04:39:49Z,,,,,User,False
+run-llama,127,0,3930,0,2023-04-14T02:40:56Z,2026-06-13T12:33:15Z,,,https://llamaindex.ai,United States of America,Organization,False
+pandas-dev,16,0,5280,0,2016-08-23T21:37:18Z,2026-06-12T12:24:53Z,,,http://pandas.pydata.org,,Organization,False
+minimaxir,158,20,5077,1,2012-08-19T19:25:30Z,2026-01-06T02:29:06Z,,@buzzfeed ,https://minimaxir.com,San Francisco,User,False
+oobabooga,59,1,4977,0,2022-08-27T01:04:27Z,2026-05-14T18:51:51Z,,,https://localbench.substack.com/,,User,False
+hesreallyhim,112,3,804,78,2024-06-08T21:56:20Z,2026-06-09T07:48:24Z,True,Really Engineering,https://reallyengineering.com,,User,False
+Aider-AI,7,0,736,0,2024-06-08T17:48:56Z,2024-10-04T19:46:41Z,,,https://aider.chat/,United States of America,Organization,False
+apache,3137,0,23103,0,2009-01-17T20:14:40Z,2026-06-12T11:35:31Z,,,https://www.apache.org/,,Organization,False
+coqui-ai,23,0,1979,0,2020-12-06T18:48:55Z,2025-08-22T09:05:11Z,,,,,Organization,False
+exo-explore,14,0,1178,0,2024-03-09T16:23:43Z,2026-05-18T21:01:05Z,,,,,Organization,False
+zhayujie,28,0,1515,29,2017-03-03T09:23:17Z,2026-05-25T10:32:51Z,,Minimal Future Tech,https://zhayujie.com,,User,False
+9001,39,0,1193,6,2010-04-10T13:28:24Z,2026-05-22T21:41:09Z,,,,幻想郷,User,False
+hiroi-sora,25,0,1220,1,2019-10-10T00:58:32Z,2026-02-03T05:49:59Z,,,,TORISHIRO JIMA,User,False
+streamlit,109,0,5154,0,2018-11-16T21:45:39Z,2024-12-13T23:27:39Z,,,https://streamlit.io,,Organization,False
+SimplifyJobs,12,0,4964,0,2020-04-16T00:39:58Z,2026-03-26T07:00:53Z,,,https://simplify.jobs/,United States of America,Organization,False
+HKUDS,87,0,11640,0,2022-11-14T08:19:56Z,2026-05-18T07:49:46Z,,,https://sites.google.com/view/chaoh,Hong Kong,Organization,False
+getsentry,780,0,3045,0,2012-02-01T06:56:22Z,2025-11-11T19:42:20Z,,,https://sentry.io,United States of America,Organization,False
+roboflow,161,0,4942,0,2019-07-20T02:07:48Z,2026-05-27T16:48:53Z,,,https://roboflow.com,United States of America,Organization,False
+mitmproxy,20,0,632,0,2013-06-09T08:50:42Z,2026-06-08T11:53:42Z,,,https://mitmproxy.org/,,Organization,False
+gradio-app,74,0,1328,0,2019-05-27T00:16:30Z,2025-04-20T10:15:40Z,,,www.gradio.app,"Mountain View, CA",Organization,False
+ccxt,33,0,1032,0,2017-09-12T19:21:50Z,2024-08-14T02:31:40Z,,,https://ccxt.com,,Organization,False
+ray-project,126,0,1775,0,2016-09-11T02:38:59Z,2026-05-20T12:17:00Z,,,https://docs.ray.io,,Organization,False
+faif,23,19,1128,0,2012-01-04T18:44:38Z,2026-06-05T09:03:57Z,,Mentech,https://sakisk.me,Netherlands,User,False
+deepspeedai,6,0,378,0,2020-11-06T17:40:20Z,2026-02-12T23:16:32Z,,,,,Organization,False
+ZhuLinsen,37,0,869,20,2018-08-30T06:34:37Z,2026-06-10T23:35:15Z,,,,,User,False
+mingrammer,184,34,2409,16,2013-12-13T13:10:41Z,2026-05-22T12:12:37Z,True,@daangn ,https://mingrammer.com,South Korea,User,False
+apachecn,1193,0,4195,0,2016-12-28T02:46:16Z,2024-02-05T13:27:55Z,,,https://apachecn.org,China,Organization,False
+paperless-ngx,4,0,904,0,2022-02-12T21:48:22Z,2026-05-22T20:05:14Z,,,,,Organization,False
+vnpy,94,0,3765,0,2015-03-02T02:53:29Z,2026-04-03T10:55:34Z,,"VeighNa Tech Co., Ltd.",www.vnpy.com,Shanghai,User,False
+chubin,26,1,3868,0,2013-03-15T13:34:43Z,2026-06-08T18:43:26Z,,,https://twitter.com/igor_chubin,,User,False
+hpcaitech,33,0,1946,0,2021-08-10T04:01:04Z,2026-03-25T07:05:41Z,,,https://hpc-ai.com/,,Organization,False
+mvanhorn,1340,0,2792,6,2010-10-26T19:09:59Z,2026-06-06T20:58:35Z,,,,,User,False
+zai-org,49,0,4413,0,2025-07-27T11:07:11Z,2025-12-11T09:14:58Z,,,https://www.zhipuai.cn/en,,Organization,False
+agno-agi,65,0,1757,0,2022-05-04T00:28:32Z,2026-02-16T13:42:06Z,,,https://agno.com,,Organization,False
+sickn33,24,1,644,8,2024-10-07T06:33:13Z,2026-06-10T13:43:44Z,,,,Italy,User,False
+google-research,346,0,16040,0,2018-10-03T21:40:41Z,2025-06-28T19:58:35Z,,,https://research.google,Earth,Organization,False
+floodsung,120,4,3361,46,2013-03-16T05:21:08Z,2026-05-06T06:42:06Z,,xvirobotics.com,floodsung.github.io,,User,False
+lm-sys,5,0,2156,0,2023-02-26T08:21:35Z,2023-10-13T01:18:34Z,,,,,Organization,False
+2noise,3,0,348,0,2024-03-25T05:47:08Z,2024-05-28T08:22:07Z,,,2noise.com,,Organization,False
+react,10,0,501,0,2009-07-08T09:38:38Z,2026-05-13T19:12:36Z,,,,,Organization,False
+affaan-m,27,0,7317,20,2023-02-04T11:57:38Z,2026-06-08T15:12:02Z,True,Itô,https://affaanmustafa.com,"San Francisco, CA / Bellevue, WA",User,False
+trekhleb,27,0,17892,7,2012-12-09T08:38:00Z,2025-12-12T04:22:06Z,True,Uber,trekhleb.dev,San Francisco Bay Area,User,False
+Snailclimb,14,0,10931,123,2017-07-04T03:55:47Z,2026-06-03T00:50:18Z,,,https://javaguide.cn/,"Wuhan, Hubei",User,False
+airbnb,203,0,5622,0,2011-03-30T01:29:47Z,2025-06-27T02:18:58Z,,,https://airbnb.tech,San Francisco,Organization,False
+vercel,234,0,28916,0,2015-10-05T19:40:30Z,2026-04-28T17:04:11Z,,,https://vercel.com,,Organization,False
+Chalarangelo,91,42,3296,13,2014-07-27T14:40:23Z,2026-05-24T09:59:22Z,,Skroutz S.A.,https://www.chalarangelo.me/,"Athens, Greece",User,False
+nodejs,231,0,16032,0,2014-11-25T17:10:50Z,2026-06-06T11:39:03Z,,,https://nodejs.org,,Organization,False
+mrdoob,58,73,25210,200,2009-06-19T16:54:00Z,2026-06-08T08:32:12Z,,,https://mrdoob.com,,User,False
+axios,5,0,2383,0,2017-09-28T19:14:51Z,2026-04-04T18:45:21Z,,,https://axios.rest,,Organization,False
+mui,20,0,4840,0,2017-11-14T15:51:41Z,2026-06-03T17:21:59Z,,,https://mui.com,Global,Organization,False
+ryanmcdermott,51,5,4512,3,2013-07-29T16:38:31Z,2025-08-24T16:40:20Z,,@google ,ryanmcdermott.me,Bay Area,User,False
+louislam,57,7,3484,12,2012-01-17T14:09:09Z,2026-06-10T08:37:12Z,True,,,Hong Kong,User,False
+sveltejs,83,0,5025,0,2016-11-20T18:03:26Z,2025-09-12T08:14:16Z,,,https://svelte.dev,pkg.devDependencies,Organization,False
+thedotmack,120,15,1694,122,2011-03-22T14:18:35Z,2026-05-04T22:55:47Z,,,,,User,False
+anuraghazra,139,29,14844,125,2018-01-12T14:48:56Z,2026-06-10T11:48:39Z,,@razorpay,https://anuraghazra.dev,"India, West Bengal",User,False
+FortAwesome,47,0,1480,0,2012-03-06T05:21:04Z,2024-03-21T17:50:56Z,,,https://fontawesome.com,United States of America,Organization,False
+typicode,77,0,10197,0,2013-09-20T13:43:02Z,2026-03-26T07:21:43Z,True,,,,User,False
+JuliusBrussee,49,0,1797,6,2022-04-21T20:06:45Z,2026-04-20T11:49:43Z,,,juliusbrussee.com,Netherlands,User,False
+hakimel,31,19,12742,28,2011-02-21T07:33:44Z,2026-05-02T05:06:16Z,,Slides.com,https://hakim.se,Sweden,User,False
+juliangarnier,20,0,5421,7,2011-12-16T20:40:13Z,2026-04-29T19:46:15Z,,https://animejs.com,https://juliangarnier.com/,Paris,User,False
+expressjs,49,0,2570,0,2013-10-10T18:05:56Z,2026-06-13T11:41:11Z,,,https://expressjs.com/,,Organization,False
+chartjs,20,0,872,0,2014-12-29T19:20:21Z,2020-11-15T16:17:23Z,,,http://www.chartjs.org/,,Organization,False
+leonardomso,68,4,3196,306,2014-06-30T19:39:01Z,2026-06-12T16:03:07Z,True,,http://leonardomso.com/,"Valencia, Spain",User,False
+webpack,86,0,1298,0,2012-08-06T20:40:38Z,2023-02-09T12:18:55Z,,,https://webpack.js.org,,Organization,False
+gorhill,28,8,6676,0,2011-01-26T23:09:09Z,2026-05-29T14:59:54Z,,,,Canada / Québec,User,False
+gsd-build,8,0,1111,0,2026-02-09T17:59:31Z,2026-05-23T22:51:51Z,,,,,Organization,False
+resume,1,0,80,0,2011-02-06T00:02:48Z,2022-05-09T20:48:38Z,,,http://resume.github.com,,Organization,False
+jgraph,32,0,4880,0,2012-05-23T09:51:35Z,2025-09-19T20:51:39Z,,,http://www.drawio.com,United Kingdom,Organization,False
+Mintplex-Labs,38,0,1622,0,2023-05-23T16:32:22Z,2026-03-13T20:03:34Z,,,https://mintplexlabs.com,United States of America,Organization,False
+lodash,5,0,350,0,2012-10-15T15:56:25Z,2026-05-15T13:16:47Z,,,https://lodash.com/,,Organization,False
+atom,255,0,3268,0,2011-09-29T07:56:58Z,2023-06-22T17:12:47Z,,,http://atom.io,"San Francisco, CA",Organization,False
+adam-p,66,14,1671,2,2010-10-03T21:25:48Z,2026-05-20T14:52:08Z,,"Psiphon Inc., Proven Security Solutions Inc.",https://adam-p.ca,"Toronto, Canada",User,False
+jquery,65,0,1236,0,2009-04-03T15:18:52Z,2026-05-24T11:28:58Z,,,https://jquery.com,,Organization,False
+angular,214,0,8641,0,2009-10-13T22:16:19Z,2025-06-28T19:58:19Z,,,https://angular.dev,United States of America,Organization,False
+h5bp,28,0,941,0,2011-10-18T21:02:57Z,2025-02-10T11:49:35Z,,,https://h5bp.org,,Organization,False
+scutan90,40,0,2560,1,2017-09-11T08:30:48Z,2022-04-09T02:58:01Z,,,,,User,False
+gatsbyjs,103,0,1387,0,2015-05-21T22:42:00Z,2024-12-16T09:02:31Z,,,https://www.gatsbyjs.com/,,Organization,False
+azl397985856,151,33,4680,74,2015-05-17T03:29:38Z,2026-05-28T12:12:28Z,True,secret,https://lucifer.ren/blog,China,User,False
+TryGhost,151,0,1692,0,2012-08-19T13:28:58Z,2025-06-30T19:46:11Z,,,https://ghost.org,,Organization,False
+santifer,21,0,2667,4,2026-01-23T18:25:51Z,2026-06-12T06:34:31Z,True,@Zinkee-Engineering ,https://santifer.io,"Seville, Spain",User,False
+mozilla,2553,0,10558,0,2009-09-26T08:22:18Z,2026-04-06T02:38:43Z,,,https://wiki.mozilla.org/Github,"Mountain View, California",Organization,False
+prettier,45,0,981,0,2017-02-16T14:37:13Z,2026-06-08T14:56:24Z,,,https://prettier.io,,Organization,False
+agalwood,39,2,1525,38,2011-09-07T06:50:08Z,2026-06-03T11:37:19Z,,AGALWOOD,https://agalwood.net/,,User,False
+chinese-poetry,7,0,657,0,2017-08-06T04:32:21Z,2026-06-08T15:49:12Z,,,https://awesome-poetry.top,"Shanghai, China",Organization,False
+Semantic-Org,81,0,239,0,2013-10-28T17:02:43Z,2016-10-05T22:23:49Z,,,http://www.semantic-ui.com,New York,Organization,False
+poteto,86,230,7278,11,2012-01-30T07:35:52Z,2026-06-12T01:12:53Z,,@cursor,no.lol,socal,User,False
+NARKOZ,97,13,5327,12,2010-04-26T19:07:39Z,2026-06-10T15:06:26Z,True,,,"Kyiv, Ukraine",User,False
+bmad-code-org,13,0,747,0,2025-08-01T13:48:13Z,2025-08-01T13:58:30Z,,,,,Organization,False
+iamkun,3,0,1982,11,2016-03-06T02:15:10Z,2026-05-12T11:38:37Z,,@ElemeFE ,,"Shanghai, China",User,False
+algorithm-visualizer,10,0,588,0,2018-04-18T06:19:04Z,2025-05-29T12:52:55Z,,,https://algorithm-visualizer.org/,,Organization,False
+bigskysoftware,30,0,1791,0,2019-03-21T14:03:29Z,2026-06-02T14:53:20Z,,,https://bigsky.software,high up in the mountains,Organization,False
+moment,7,0,208,0,2013-04-11T19:06:49Z,2020-04-03T18:16:10Z,,,http://momentjs.com,,Organization,False
+serverless,71,0,850,0,2015-08-11T05:02:02Z,2026-06-02T00:42:39Z,,,https://serverless.com,United States of America,Organization,False
+LeCoupa,21,46,2790,187,2012-04-19T09:37:07Z,2026-06-04T10:26:01Z,,@TheCompaniesAPI,https://www.thecompaniesapi.com/,"Barcelona, Spain.",User,False
+google,2879,0,74011,0,2012-01-18T01:30:18Z,2025-06-28T19:58:20Z,,,https://opensource.google/,United States of America,Organization,False
+Leaflet,16,0,856,0,2012-11-21T14:17:37Z,2026-05-27T11:39:59Z,,,http://leafletjs.com,,Organization,False
+usebruno,31,0,557,0,2022-09-27T20:50:24Z,2025-12-22T11:15:25Z,,,https://www.usebruno.com/,,Organization,False
+GitSquared,22,14,2154,183,2016-12-10T17:39:02Z,2026-05-24T22:34:01Z,,@carbonfact,https://gaby.dev,"Paris, France",User,False
+meteor,230,0,332,0,2011-05-15T18:34:06Z,2026-03-30T19:17:24Z,,,https://meteor.com/,Canada,Organization,False
+sudheerj,71,0,9142,0,2012-12-26T13:50:38Z,2026-05-28T11:38:29Z,True,,https://sudheerjonna.com,,User,False
+parcel-bundler,13,0,1723,0,2017-10-08T05:40:19Z,2026-05-24T12:36:09Z,,,https://parceljs.org,,Organization,False
+NaiboWang,37,0,1548,23,2017-07-19T09:20:06Z,2026-05-22T13:55:52Z,,Zhejiang University,https://naibo.wang,"Ningbo, Zhejiang Province",User,False
+Unitech,195,309,1402,432,2011-04-28T20:38:41Z,2026-02-19T13:21:05Z,,@keymetrics ,https://pm2.io,Paris,User,False
+zen-browser,17,0,10447,0,2024-03-28T00:04:32Z,2026-02-27T11:09:23Z,,,https://zen-browser.app,,Organization,False
+asgeirtj,31,11,1307,4,2017-04-13T19:48:33Z,2026-05-25T01:46:57Z,True,,,Iceland,User,False
+nolimits4web,26,39,4391,1,2011-08-23T17:45:14Z,2026-05-15T03:11:12Z,True,,https://nolimits4web.com,USA,User,False
+yarnpkg,24,0,900,0,2016-09-16T21:24:31Z,2025-10-09T09:18:19Z,,,https://yarnpkg.com,,Organization,False
+nwjs,14,0,148,0,2014-12-13T23:07:30Z,2026-06-10T12:04:33Z,,,https://nwjs.io,,Organization,False
+DavidHDev,15,0,2773,55,2019-03-16T23:11:23Z,2026-05-05T06:48:39Z,True,,www.davidhaz.com,Cluj-Napoca,User,False
+remoteintech,1,0,603,0,2017-09-07T00:41:04Z,2026-05-20T12:33:03Z,,,https://remoteintech.company/?utm_campaign=GitHub+bio&utm_source=github&utm_medium=bio&utm_content=textlink,Everywhere,Organization,False
+goabstract,38,0,198,0,2016-03-22T18:43:27Z,2026-04-06T18:00:19Z,,,https://abstract.com,,Organization,False
+PatrickJS,972,323,3551,394,2011-08-31T07:43:17Z,2026-06-12T22:24:50Z,True,@kunai-consulting,patrickjs.com,"San Francisco, Los Angeles, Las Vegas",User,False
+videojs,78,0,579,0,2013-01-16T16:06:11Z,2025-04-14T23:58:31Z,,,https://videojs.org,,Organization,False
+phaserjs,103,0,488,0,2019-09-03T16:10:21Z,2025-12-18T17:55:01Z,,,https://phaser.io,United States of America,Organization,False
+Dogfalo,27,8,1156,2,2012-11-12T05:21:31Z,2026-06-09T18:31:50Z,,,,,User,False
+preactjs,39,0,673,0,2017-04-03T13:00:07Z,2020-12-26T22:49:40Z,,,https://preactjs.com,,Organization,False
+impress,2,0,48,0,2013-09-17T11:16:46Z,2016-04-14T16:28:09Z,,,,,Organization,False
+naptha,24,0,175,0,2014-05-28T03:53:18Z,2022-05-09T20:50:34Z,,,http://projectnaptha.com,"Cambridge, MA",Organization,False
+pbakaus,25,5,1573,1,2008-12-28T16:08:50Z,2026-06-05T18:16:18Z,,Google,https://paulbakaus.com,San Francisco,User,False
+ToolJet,8,0,585,0,2021-04-09T03:07:25Z,2025-12-15T05:07:53Z,,,https://tooljet.com,,Organization,False
+denysdovhan,80,34,2974,140,2013-02-02T21:23:29Z,2026-06-08T15:46:50Z,,@wix,denysdovhan.com,"Kyiv, Ukraine",User,False
+drawdb-io,5,0,469,0,2023-07-16T17:07:40Z,2024-09-03T12:15:29Z,,,https://drawdb.app/,,Organization,False
+markedjs,15,0,162,0,2016-06-12T08:28:52Z,2026-05-17T11:54:43Z,,,https://marked.js.org,,Organization,False
+fastify,139,0,1261,0,2017-01-05T14:50:57Z,2026-05-20T12:21:57Z,,,https://fastify.dev,United States of America,Organization,False
+carbon-app,2,0,152,0,2019-06-24T20:58:10Z,2026-06-13T13:13:29Z,,,https://carbon.now.sh,www,Organization,False
+koajs,104,0,410,0,2013-07-20T18:53:26Z,2020-04-21T04:07:53Z,,,https://koajs.com,,Organization,False
+jondot,419,57,1685,61,2009-05-11T19:46:11Z,2026-05-26T17:18:43Z,True,SpectralOps,https://medium.com/@jondot/,"Tel Aviv, Israel",User,False
+alvarotrigo,87,28,3498,10,2012-05-04T15:52:02Z,2026-04-13T14:26:57Z,True,,http://alvarotrigo.com,"Cambridge, UK",User,False
+sahat,181,18,4763,18,2011-01-03T05:41:55Z,2026-02-10T01:36:52Z,,iCapital Network,,Remote,User,False
+ryanhanwu,80,98,1013,61,2010-08-20T17:36:28Z,2026-05-29T01:21:06Z,,,,Gotham City,User,False
+gchq,73,0,2373,0,2015-11-11T12:53:55Z,2026-01-19T08:27:26Z,,,https://gchq.gov.uk,UK,Organization,False
+songquanpeng,102,1,1860,245,2018-06-06T14:53:43Z,2026-06-04T04:21:46Z,,South China University of Technology,https://iamazing.cn/,"Shanghai, China",User,False
+qishibo,57,2,630,10,2013-08-01T08:02:26Z,2026-05-24T01:32:53Z,,sidu,https://qii404.me/,HD,User,False
+zenorocha,147,52,11507,234,2010-09-14T13:36:42Z,2026-06-03T19:58:59Z,,@resend,https://zenorocha.com,"San Francisco, California",User,False
+atlassian,385,0,1572,0,2009-12-16T00:16:42Z,2025-05-22T04:58:45Z,,,https://atlassian.com/,Australia,Organization,False
+pcottle,26,14,1345,5,2011-10-18T05:56:56Z,2026-05-23T21:44:54Z,,,http://petermcottle.com,"Berkeley, CA",User,False
+coreyhaines31,7,0,2205,13,2017-12-24T01:54:55Z,2026-04-03T22:56:35Z,,,corey.co,San Diego,User,False
+lutzroeder,10,0,1685,5,2010-10-13T20:55:16Z,2026-06-04T16:02:28Z,,@microsoft,lutzroeder.com,,User,True
+adobe,1103,0,3120,0,2010-11-10T16:36:26Z,2026-03-18T12:16:03Z,,,https://adobe.com,"San Jose, CA",Organization,False
+gulpjs,72,0,207,0,2013-12-16T21:17:25Z,2026-06-05T11:53:39Z,,,https://gulpjs.com,,Organization,False
+lovell,77,8,1737,52,2010-02-25T21:27:12Z,2026-06-07T11:30:19Z,,,https://lovell.info,"London, UK",User,False
+docsifyjs,12,0,263,0,2018-06-10T04:02:26Z,2024-04-09T13:56:24Z,,,https://docsify.js.org,Mars,Organization,False
+parallax,123,0,110,0,2010-07-01T12:24:08Z,2026-01-19T12:02:53Z,,,https://parall.ax/,,Organization,False
+SortableJS,12,0,294,0,2016-02-03T06:54:08Z,2022-03-21T02:56:08Z,,,https://sortablejs.github.io/Sortable,,Organization,False
+AMAI-GmbH,5,0,243,0,2019-08-18T19:09:57Z,2019-08-23T06:34:15Z,,,https://am.ai,"Karlsruhe, Germany",Organization,False
+webtorrent,38,0,620,0,2013-10-29T02:52:39Z,2026-05-15T11:38:55Z,,,https://webtorrent.io,npm install webtorrent,Organization,False
+ascoders,88,7,3904,55,2014-06-24T02:46:48Z,2026-05-11T08:00:49Z,,Bytedance,https://github.com/ascoders/weekly,"Hangzhou, China",User,False
+gethomepage,2,0,350,0,2023-01-17T19:54:27Z,2024-06-27T19:27:56Z,,,https://gethomepage.dev/,,Organization,False
+layui,7,0,216,0,2014-06-22T10:08:23Z,2025-11-19T17:40:06Z,,,https://layui.dev,Hangzhou China,Organization,False
+GoogleChrome,51,0,6560,0,2012-05-25T18:21:42Z,2026-05-20T00:23:41Z,,,,,Organization,False
+VincentGarreau,15,0,1567,8,2011-08-05T19:21:16Z,2026-06-09T08:30:05Z,,Livestorm,https://vincentgarreau.com,"Paris, France",User,False
